@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.6.0">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -101,7 +101,7 @@
 <rectangle x1="0.39" y1="2" x2="0.88" y2="3.1" layer="51"/>
 <rectangle x1="-0.88" y1="2" x2="-0.39" y2="3.1" layer="51"/>
 <rectangle x1="-2.15" y1="2" x2="-1.66" y2="3.1" layer="51"/>
-<circle x="-1.797571875" y="-0.846490625" radius="0.2389" width="0.127" layer="21"/>
+<circle x="-2.9498625" y="-2.719271875" radius="0.2389" width="0.127" layer="21"/>
 </package>
 </packages>
 <symbols>
